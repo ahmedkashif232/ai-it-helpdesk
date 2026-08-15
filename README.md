@@ -1,6 +1,9 @@
 # AI IT Help Desk Assistant
 
 An AI-powered IT support application that analyzes user-reported technical issues and generates structured help-desk ticket information.
+## Application Demo
+
+![AI IT Help Desk demonstration](ai-helpdesk-demo.png)
 
 ## Features
 
